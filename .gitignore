@@ -1,0 +1,6 @@
+/.idea
+/Binaries/*
+/Configuration/*.yaml
+/Libraries/*
+
+# Exclusions

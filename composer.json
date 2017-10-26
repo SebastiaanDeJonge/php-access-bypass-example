@@ -1,0 +1,23 @@
+{
+    "name": "sebastiaandejonge/php_access_bypass_example",
+    "description": "PHP Access Bypass Example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sebastiaan de Jonge",
+            "email": "mail@sebastiaandejonge.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "config": {
+        "vendor-dir": "Libraries",
+        "bin-dir": "Binaries"
+    },
+    "autoload": {
+        "psr-4": {
+            "SebastiaanDeJonge\\PhpAccessBypassExample\\": "Classes/"
+        }
+    }
+}
